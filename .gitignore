@@ -1,0 +1,15 @@
+# Generated performance-audit artifacts
+*.json
+!skills/**/*.json
+trace*.json
+*.heapsnapshot
+*.webm
+load.webm
+
+# Lighthouse HTML/JSON reports
+lighthouse-report*
+*.report.html
+
+# OS / editor
+.DS_Store
+Thumbs.db
