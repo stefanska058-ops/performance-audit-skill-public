@@ -9,6 +9,9 @@ load.webm
 # Lighthouse HTML/JSON reports
 lighthouse-report*
 *.report.html
+report.json
+report.html
+/raport
 
 # OS / editor
 .DS_Store
